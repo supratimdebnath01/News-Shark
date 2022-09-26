@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Lavrov pledges 'full protection' for any territory annexed by Russia - Reuters",
+        "description": "Russia's top diplomat on Saturday said regions of Ukraine where widely-derided referendums are being held would be under Russia's \"full protection\" if they are annexed by Moscow, amid fears Russia could further escalate the conflict and even use nuclear weapo…",
+        "url": "https://www.reuters.com/world/europe/lavrov-un-pledges-full-protection-any-territory-annexed-by-russia-2022-09-24/",
+        "urlToImage": "https://www.reuters.com/resizer/Hmz0sQLxOMInqSzdVna2vgDb43E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXQYZE5TGFP4TOOGTBGN26XQLA.jpg",
+        "publishedAt": "2022-09-25T10:38:00Z",
+        "content": "UNITED NATIONS, Sept 24 (Reuters) - Russia's top diplomat on Saturday said regions of Ukraine where widely-derided referendums are being held would be under Russia's \"full protection\" if they are ann… [+5438 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Orlando Sentinel"
+        },
+        "author": "Roger Simmons",
+        "title": "Tropical Storm Ian about to have 'rapid intensification,' Florida track is uncertain - Orlando Sentinel",
+        "description": "Computer forecast models agree Ian will hit Florida, but don’t agree on where. “There are still significant differences regarding the exact track of the storm, especially after 72 hours,” the NHC cautioned Sunday morning.",
+        "url": "https://www.orlandosentinel.com/weather/hurricane/os-ne-tropical-storm-ian-florida-sunday-20220925-yqxaaqmwcrd7zlayadewqtgpxq-story.html",
+        "urlToImage": "https://www.orlandosentinel.com/resizer/RLyaxrnL0HvQQ6A4ntUUIswm53s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4LSEECDDPRHYFAM2DKL3XOL6LE.PNG",
+        "publishedAt": "2022-09-25T10:33:29Z",
+        "content": "Tropical Storm Ian is expected to have rapid intensification today, grow into a major hurricane in the next 48 hours and eventually hit Florida but many questions remain including when, where and how… [+4209 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Chico Harlan, Stefano Pitrelli",
+        "title": "Italy election: Voters poised to elect Meloni, far-right Fratelli d'Italia - The Washington Post",
+        "description": "Voters are expected to elevate Giorgia Meloni and her Fratelli d'Italia party, part of a coalition that would be the farthest right government since the fall of Mussolini.",
+        "url": "https://www.washingtonpost.com/world/2022/09/25/italy-election-results-meloni-right/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDTHTZR3MQI63OFPBICOLXB5WY.jpg&w=1440",
+        "publishedAt": "2022-09-25T10:20:00Z",
+        "content": "ROME Italy is poised on Sunday for a norm-breaking election thats expected to give the country its first-ever female prime minister and its farthest-right government since the fall of Mussolini.\r\nThe… [+6680 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Complaints about Russia's chaotic mobilization grow - Reuters",
+        "description": "The strongly pro-Kremlin editor of Russia's state-run RT news channel expressed anger on Saturday that enlistment officers were sending call-up papers to the wrong men, as frustration about a military mobilisation grew.",
+        "url": "https://www.reuters.com/world/europe/complaints-about-russias-chaotic-mobilisation-grow-louder-2022-09-24/",
+        "urlToImage": "https://www.reuters.com/resizer/IyatKNfMqSs7GEB-vMMw1dMYXPM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/72JO7PJC7RMB5CDOUYPDYFJ5NA.jpg",
+        "publishedAt": "2022-09-25T08:01:00Z",
+        "content": "LONDON, Sept 24 (Reuters) - The strongly pro-Kremlin editor of Russia's state-run RT news channel expressed anger on Saturday that enlistment officers were sending call-up papers to the wrong men, as… [+5692 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Aaron Carter Receives Welfare Check After Fans Think He's Huffing Online - TMZ",
+        "description": "Aaron Carter had the cops at his door for a welfare check after fans though he was huffing while live on Instagram.",
+        "url": "https://www.tmz.com/2022/09/25/aaron-carter-receive-welfare-check-fans-huffing-online-instagram/",
+        "urlToImage": "https://imagez.tmz.com/image/5d/16by9/2022/09/22/5de672b3f6414c1f8a2a887872e63433_xl.jpg",
+        "publishedAt": "2022-09-25T08:00:00Z",
+        "content": "Aaron Carter had cops at his door for a welfare check after going live on Instagram ... because worried fans believed he was possibly doing drugs off-camera.\r\nLaw enforcement sources tell TMZ ... pol… [+1372 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ESPN"
+        },
+        "author": "David M. Hale",
+        "title": "College football Week 4 highlights - Top plays, games and takeaways - ESPN",
+        "description": "See, winning is hard, and for a few potential contenders, the job proved too big Saturday.",
+        "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal092422/college-football-week-4-highlights-top-plays-games-takeaways",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0924%2Fr1066406_1296x729_16%2D9.jpg",
+        "publishedAt": "2022-09-25T05:50:30Z",
+        "content": "There are Saturdays when the true playoff contenders emerge with such ferocity and dominance they cannot be ignored.\r\nThere are Saturdays when the whole system feels rigged, and upsets knock one team… [+21104 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Ramon Antonio Vargas",
+        "title": "QAnon follower who chased officer on January 6 convicted of felonies - The Guardian US",
+        "description": "Douglas Jensen could face more than 50 years in prison after federal jury found him guilty",
+        "url": "https://amp.theguardian.com/us-news/2022/sep/24/douglas-jensen-capitol-attack-january-6-qanon",
+        "urlToImage": "https://i.guim.co.uk/img/media/3478256d4a0231569d6d8ab9a093a114644be4bf/0_149_4516_2711/master/4516.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85c8d641712f7613d76579e9b73d6bde",
+        "publishedAt": "2022-09-25T05:00:00Z",
+        "content": "A QAnon conspiracy theorist who led a pack of Donald Trump supporters that chased a solitary police officer around the US Capitol on the day of the January 6 attack has been found guilty of several f… [+3555 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WTAE Pittsburgh"
+        },
+        "author": null,
+        "title": "Police source: Multiple people injured in Kennywood shooting - WTAE Pittsburgh",
+        "description": "Allegheny County Police say three people were shot, including a 15-year-old, at Kennywood Park Saturday night",
+        "url": "https://www.wtae.com/article/emergency-response-ascends-upon-kennywood-park/41371801",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kwmv-1664076654.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
+        "publishedAt": "2022-09-25T04:51:00Z",
+        "content": "WEST MIFFLIN, Pa. —Allegheny County police said three people were shot, including a 15-year-old, at Kennywood Park in West Mifflin. According to police, the shooting was the result of an altercation … [+2572 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Gary Langer",
+        "title": "Biden struggles, as does his party, as most Democrats look elsewhere for 2024: POLL - ABC News",
+        "description": "The economy and inflation are among the top issues heading into the midterms.",
+        "url": "https://abcnews.go.com/Politics/biden-struggles-party-democrats-2024-poll/story?id=90427262",
+        "urlToImage": "https://s.abcnews.com/images/Politics/biden-rt-jt-220924_1664035005291_hpMain_16x9_992.jpg",
+        "publishedAt": "2022-09-25T04:05:52Z",
+        "content": "With his party struggling in the midterms, his economic stewardship under fire and his overall job approval under 40%, a clear majority of Democrats in the latest ABC News/Washington Post poll say th… [+9848 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "TuAnh Dam",
+        "title": "China warns \"external\" interference in Taiwan will lead to \"forceful\" response - Axios",
+        "description": "Tensions between China and the U.S. have been shaky regarding Taiwan after Speaker Nancy Pelosi visited the self-governing island last month.",
+        "url": "https://www.axios.com/2022/09/24/china-taiwan-warning-world-leaders-un",
+        "urlToImage": "https://images.axios.com/hCzsTamw-E9UwDsH7MS3lMRQhIM=/0x296:8192x4904/1366x768/2022/09/24/1664041689806.jpg",
+        "publishedAt": "2022-09-25T03:59:13Z",
+        "content": "China warned world leaders to not interfere with the country's plan to reunify with Taiwan, adding that doing so would lead to severe consequences. \r\nThe big picture: Tensions between China and the U… [+867 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Ryan Morik",
+        "title": "No. 23 Texas A&M's fumble recovery handed off for touchdown propels Aggies over No. 10 Arkansas - Fox News",
+        "description": "Just two weeks after being upset at home by an unranked Appalachian State team, Texas A&M took down No. 10 Arkansas at AT&T Stadium in Dallas.",
+        "url": "https://www.foxnews.com/sports/no-23-texas-am-fumble-recovery-touchdown-propels-aggies-no-10-arkansas",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/am.jpg",
+        "publishedAt": "2022-09-25T03:20:30Z",
+        "content": "No. 23 Texas A&amp;M were the victims of a huge upset at home to Appalachian State two weeks ago, but on Saturday, they took down No. 10 Arkansas at AT&amp;T Stadium, 23-21.\r\nA wild turnover proved t… [+2962 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Eliud Kipchoge Eyes A New Marathon World Record In Berlin 2022 - FloTrack",
+        "description": "Watch Eliud Kipchoge attempt to break the world marathon record in Berlin LIVE on FloTrack September 25th!Website: http://flosports.link/3p20lTjSubscribe: ht...",
+        "url": "https://www.youtube.com/watch?v=GKbcfzPQNa0",
+        "urlToImage": "https://i.ytimg.com/vi/GKbcfzPQNa0/hqdefault.jpg",
+        "publishedAt": "2022-09-25T03:00:51Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": null,
+        "title": "Super Typhoon Noru strengthening as it heads for Philippines - CNN",
+        "description": "Super Typhoon Noru, known locally as Super Typhoon Karding, is approaching the northern Philippines and is expected to make landfall late Sunday afternoon local time.",
+        "url": "https://www.cnn.com/2022/09/24/asia/super-typhoon-noru-karding-heads-for-philippines/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220924223129-01-super-typhoon-noru-karding-heads-for-philippines.jpg?q=w_800,c_fill",
+        "publishedAt": "2022-09-25T02:59:00Z",
+        "content": "Super Typhoon Noru, known locally as Super Typhoon Karding, is approaching the northern Philippines and is expected to make landfall late Sunday afternoon local time.\r\nThe storm rapidly intensified i… [+837 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Andy Rose, Paradise Afshar",
+        "title": "Colorado police release video of police car with suspect inside hit by a train - CNN",
+        "description": "Colorado police have released videos showing a train hitting a police cruiser in which a detained suspect was handcuffed.",
+        "url": "https://www.cnn.com/2022/09/24/us/colorado-police-car-train-bodycam-footage/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220920004754-01-colorado-woman-in-patrol-car-struck-by-train.jpg?q=w_800,c_fill",
+        "publishedAt": "2022-09-25T02:13:00Z",
+        "content": "Colorado police have released videos showing a train hitting a police cruiser in which a detained suspect was handcuffed.\r\nThe Fort Lupton Police Department released body camera and dashcam video on … [+2358 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "David L. Stern, Robyn Dixon",
+        "title": "Russia rounds up Ukraine voters at gunpoint for staged referendums - The Washington Post",
+        "description": "The speed at which the referendums were announced and carried out and the mobilization of hundreds of thousands of Russian reserves, all within one week, reflect the Kremlin’s tacit acknowledgment of its deteriorating position in Ukraine.",
+        "url": "https://www.washingtonpost.com/world/2022/09/24/ukraine-putin-referendums/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2JRXZRR4D4I63OFPBICOLXB5WY.jpg&w=1440",
+        "publishedAt": "2022-09-25T02:05:00Z",
+        "content": "KYIV, Ukraine Officials in Russian-occupied territories in eastern and southern Ukraine were forcing people to vote under a gun barrel, residents said on Saturday as staged referendums intended to va… [+10641 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Guardian staff reporter",
+        "title": "Nasa delays Artemis 1 moon rocket launch again as tropical storm Ian looms - The Guardian",
+        "description": "Third delay in the past month for test flight as technical issues and weather hamper US effort to return to the moon after five decades",
+        "url": "https://amp.theguardian.com/science/2022/sep/25/nasa-delays-artemis-1-moon-rocket-launch-again-as-tropical-storm-ian-looms",
+        "urlToImage": null,
+        "publishedAt": "2022-09-25T01:40:00Z",
+        "content": "NasaThird delay in the past month for test flight as technical issues and weather hamper US effort to return to the moon after five decades\r\nSun 25 Sep 2022 02.40 BST\r\nNasa is skipping Tuesdays launc… [+2327 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Guardian"
+        },
+        "author": "Guardian staff reporter",
+        "title": "North Korea fires ballistic missile, says South Korean military - The Guardian",
+        "description": "Launch of an unidentified missile is the latest in a record-breaking blitz of weapons tests by nuclear-armed Pyongyang this year",
+        "url": "https://amp.theguardian.com/world/2022/sep/25/north-korea-fires-ballistic-missile-says-south-korean-military",
+        "urlToImage": null,
+        "publishedAt": "2022-09-25T00:25:00Z",
+        "content": "North KoreaLaunch of an unidentified missile is the latest in a record-breaking blitz of weapons tests by nuclear-armed Pyongyang this year\r\nGuardian staff with agencies\r\nSun 25 Sep 2022 03.27 BST\r\nN… [+5603 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Entertainment Tonight"
+        },
+        "author": "Miguel A. Melendez‍",
+        "title": "Hilaria and Alec Baldwin Welcome Baby No. 7 - Entertainment Tonight",
+        "description": "She was born on Thursday and the couple named her Ilaria Catalina Irena.",
+        "url": "https://www.etonline.com/hilaria-and-alec-baldwin-welcome-baby-no-7-191499",
+        "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-03/Hilaria_Baldwin_GettyImages-1324962557_1920.jpg?h=b8626526&itok=LkqrNxbz",
+        "publishedAt": "2022-09-24T22:03:23Z",
+        "content": "Congratulations are in order for Hilaria Baldwin and Alec Baldwin, as the couple just welcomed baby No. 7 into the world!\r\nHilaria took to Instagram on Saturday and announced she gave birth to Ilaria… [+1985 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Jonathan J. Cooper",
+        "title": "GOP quiet as Arizona Democrats condemn abortion ruling - The Associated Press",
+        "description": "PHOENIX (AP) — Arizona Democrats vowed Saturday to fight for women's rights after a court reinstated a law  first enacted during the Civil War that bans abortion in nearly all circumstances, looking to capitalize on an issue they hope will have a major impact…",
+        "url": "https://apnews.com/323965504b0182af0191eb07542054cd",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/87dd2dc276334616bedfbd0486af8558/3000.jpeg",
+        "publishedAt": "2022-09-24T20:49:50Z",
+        "content": "PHOENIX (AP) Arizona Democrats vowed Saturday to fight for womens rights after a court reinstated a law first enacted during the Civil War that bans abortion in nearly all circumstances, looking to c… [+4535 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "NFL Week 3 odds, picks, schedule, how to watch, streaming: Expert picks, survivor picks, teasers and more - CBS Sports",
+        "description": "CBSSports.com and SportsLine break down every single NFL game",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-3-odds-picks-schedule-how-to-watch-streaming-expert-picks-survivor-picks-teasers-and-more/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/24/4830f4e0-515a-4612-9445-3c50866b8718/thumbnail/1200x675/e55d48cd289825ac64e7697f2762e662/josh-allen-2us.jpg",
+        "publishedAt": "2022-09-24T20:34:00Z",
+        "content": "We're two weeks into the 2022 NFL season, and already we have an idea of which teams might be headed for a serious title run -- none better than the dominant Buffalo Bills. Even so, upsets and comeba… [+13562 chars]"
+      }
+    ]
+  }
